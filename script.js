@@ -1,20 +1,14 @@
-// Фильмы
+// Данные для фильмов
 const movies = [
   {
     title: "Побег из Шоушенка",
     description: "История Энди Дюфрейна, который борется за свободу.",
-    video: "https://www.dropbox.com/s/abc123xyz456/shawshank.mp4?raw=1",
+    video: "https://drive.google.com/uc?export=download&id=1CxYKnBuiL841WB-9WOGCd-qKQY62Wo74",
     thumbnail: "images/shawshank.jpg"
-  },
-  {
-    title: "Начало",
-    description: "Сложный мир снов и реальности.",
-    video: "https://www.dropbox.com/s/def456ghi789/inception.mp4?raw=1",
-    thumbnail: "images/inception.jpg"
   }
 ];
 
-// Сериалы
+// Данные для сериалов
 const series = [
   {
     title: "Дети перемен",
@@ -23,11 +17,7 @@ const series = [
     episodes: [
       {
         episode: "Серия 1",
-        video: "https://drive.google.com/file/d/1CxYKnBuiL841WB-9WOGCd-qKQY62Wo74/preview"
-      },
-      {
-        episode: "Серия 2",
-        video: "https://www.dropbox.com/s/jkl456def789/deti_peremen_s01e02.mp4?raw=1"
+        video: "https://drive.google.com/uc?export=download&id=1CxYKnBuiL841WB-9WOGCd-qKQY62Wo74"
       }
     ]
   }
