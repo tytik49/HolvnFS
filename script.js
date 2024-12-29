@@ -23,7 +23,8 @@ const series = [
     episodes: [
       {
         episode: "Серия 1",
-        video: "https://www.dropbox.com/scl/fi/5qk2rpw50lntpelpmazin/deti_peremen_s01e02.mp4?rlkey=dof3trqwn25ewvt4uwcoffyk4&st=l7e9rhxg&raw=1"
+        video: "https://www.dropbox.com/scl/fi/5qk2rpw50lntpelpmazin/deti_peremen_s01e02.mp4?rlkey=dof3trqwn25ewvt4uwcoffyk4&st=l7e9rhxg&raw=1
+"
       },
       {
         episode: "Серия 2",
