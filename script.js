@@ -23,7 +23,7 @@ const series = [
     episodes: [
       {
         episode: "Серия 1",
-        video: "https://drive.google.com/uc?export=download&id=1CxYKnBuiL841WB-9WOGCd-qKQY62Wo74"
+        video: "https://drive.google.com/file/d/1CxYKnBuiL841WB-9WOGCd-qKQY62Wo74/preview"
       },
       {
         episode: "Серия 2",
